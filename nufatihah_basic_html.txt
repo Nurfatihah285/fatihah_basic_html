@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+			<h1><center>WELCOME</center><h1>
+<html>
+<body>
+
+
+			<H2>Hi Sweetie!
+            <br><br><br>
+            <hr>
+            
+            <br><p>Are you ready?</p></center>
+            
+            <font color="blue">
+            <p><i>Alma mater: Universiti Teknologi Mara
+            <font color="blue">
+            <p>Name:Nurfatihah Binti Abu Bakar</p>
+            <font color="blue">
+            <p>Course:Information Management</p>
+            
+            <font color="black">
+            <p><center><b>"Happy Friends,Happy Life"</center></p></b>
+
+
