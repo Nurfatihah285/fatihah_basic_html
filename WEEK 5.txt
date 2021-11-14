@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title>My dream website</title>
+</head>
+<body>
+		<a href="https://www.uitm.edu.my"><img
+src="https://www.uitm.edu.my/images/images/logo/logoUiTMUnleashingPotential2.png"></a>
+		
+        <h1>Home Page</h1>
+        <br><br>
+        <p>Welcome To my Website
+        <p> This is who I am
+        <p> My Biodata
+        <br><br>
+        <a href="index.html">Home</a>
+        <a href="biodata.html">Personal</a>
+        <a href="contact.html">Contact</a>
+        <a href="Gallery "> Gallery Page</a>
+        <hr>
+        
+        <p> Contact Card</p>
+        <p> How to contact me?</p>
+        <a href="mailto:nurfatihahabubakar28@gmail.com">E-mail</a>
+        <a href="https://twitter.com/ab_tiha">Twitter</a>
+        
+        <a href=https://www.facebook.com/photo/?fbid=1374978319390390&set=pob.100006347041434><img src="images/facebook.jpg"></a>
+         <a href=https://www.facebook.com/photo/?fbid=1374946462726909&set=pob.100006347041434><img src="images/facebook.jpg"></a>
+         <a href=https://www.facebook.com/photo/?fbid=1374968282724727&set=pob.100006347041434><img src="images/facebook.jpg"></a>
+         <a href=https://www.facebook.com/photo/?fbid=1107577755987382&set=pob.100006347041434><img src="images/facebook.jpg"></a>
+         ><img src="images/facebook.jpg"></a>
+         
+         
