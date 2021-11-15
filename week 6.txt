@@ -16,7 +16,7 @@ table, th, td {
     <th>Transport</th>
   </tr>
   <tr>
-    <td><b>Malaysia</b></td>
+    <th>Malaysia</th>
     <td>1.Kedah
     		<ul>
             	 <li>Langkawi</li>
@@ -32,7 +32,7 @@ table, th, td {
     <br>Airplane</td>
   </tr>
   <tr>
-    <td><b>Arab Saudi</b></td>
+    <th>Arab Saudi</th>
     <td>3.Mekah
  
    <ol type="i">
