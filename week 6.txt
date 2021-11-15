@@ -21,9 +21,9 @@ table, th, td {
     		<ul>
             	 <li>Langkawi</li>
                  <li>Gunung Jerai</li>
+                 </ul>
         2. Penang
        		<ul>
-  
   				<li>Balik Pulau</li>
   				<li>Tanjung Bungah</li>
 				</ul>
